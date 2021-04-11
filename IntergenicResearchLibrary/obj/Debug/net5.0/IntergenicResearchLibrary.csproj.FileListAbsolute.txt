@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\bin\Debug\net5.0\IntergenicResearchLibrary.exe
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\bin\Debug\net5.0\IntergenicResearchLibrary.deps.json
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\bin\Debug\net5.0\IntergenicResearchLibrary.runtimeconfig.json
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\bin\Debug\net5.0\IntergenicResearchLibrary.runtimeconfig.dev.json
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\bin\Debug\net5.0\IntergenicResearchLibrary.dll
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\bin\Debug\net5.0\ref\IntergenicResearchLibrary.dll
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\bin\Debug\net5.0\IntergenicResearchLibrary.pdb
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\obj\Debug\net5.0\IntergenicResearchLibrary.csprojAssemblyReference.cache
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\obj\Debug\net5.0\IntergenicResearchLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\obj\Debug\net5.0\IntergenicResearchLibrary.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\obj\Debug\net5.0\IntergenicResearchLibrary.AssemblyInfo.cs
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\obj\Debug\net5.0\IntergenicResearchLibrary.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\obj\Debug\net5.0\IntergenicResearchLibrary.dll
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\obj\Debug\net5.0\ref\IntergenicResearchLibrary.dll
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\obj\Debug\net5.0\IntergenicResearchLibrary.pdb
+C:\CodebitsAcademy\C#  labTask\labTask11-IntroducingGenerics\IntergenicResearchLibrary\obj\Debug\net5.0\IntergenicResearchLibrary.genruntimeconfig.cache
