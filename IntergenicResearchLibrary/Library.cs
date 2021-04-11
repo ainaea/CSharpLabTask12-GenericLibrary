@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace IntergenicResearchLibrary
 {
-    public class Library
+    public class Library : IDefaulterList
     {
         public string Name { get; set; }
         public string YearOfStudy { get; set; }
