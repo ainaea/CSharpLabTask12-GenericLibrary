@@ -54,6 +54,12 @@ namespace IntergenicResearchLibrary
         public override string ToString()
         {
             return $"{Day}/{Month}/{Year}";
+        }
+
+        public Date AddDays(int num)
+        {
+            var date = new DateTime(Year,Month,Day).AddDays(num);;
+            return new Date(date.Day,date.Month,date.Year);
         }  
     }
 }

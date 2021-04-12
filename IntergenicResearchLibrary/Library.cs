@@ -11,13 +11,13 @@ namespace IntergenicResearchLibrary
         public Date Returned { get; set; }
         // public string NameNotReturned { get; set; }
 
-        public Library(string name, string year, Book book, Date issued, Date returned)
+        public Library(string name, string year, Book book, Date issued)
         {
             Name = name;
             YearOfStudy = year;
             Booked = book;
             Issued = issued;
-            Returned = returned;
+            Returned = Issued.AddDays(7);
         }
 
         public string GetName()
@@ -44,7 +44,7 @@ namespace IntergenicResearchLibrary
 
         public string GetDefaulters()
         {
-            return $"{Name,15}\t {Booked}";
+            return $"{Name,15}\t {Booked}\t {Issued}\t {Returned}";
         }         
         
     }
