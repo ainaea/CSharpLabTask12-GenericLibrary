@@ -6,10 +6,19 @@ namespace IntergenicResearchLibrary
     {
         public string Name { get; set; }
         public string YearOfStudy { get; set; }
-        public List<string> Book { get; set; }
+        public Book Booked { get; set; }
         public Date Issued { get; set; }    
         public Date Returned { get; set; }
-        public string NameNotReturned { get; set; }
+        // public string NameNotReturned { get; set; }
+
+        public Library(string name, string year, Book book, Date issued, Date returned)
+        {
+            Name = name;
+            YearOfStudy = year;
+            Booked = book;
+            Issued = issued;
+            Returned = returned;
+        }
 
         public string GetName()
         {
@@ -21,7 +30,7 @@ namespace IntergenicResearchLibrary
         }
         public string GetBook()
         {
-            return $"Book: {Book[0]}\nID: {Book[1]}";
+            return $"{Booked}";
         }
         public Date GetDateIssued()
         {
@@ -33,9 +42,9 @@ namespace IntergenicResearchLibrary
             return Returned;
         }
 
-        public void GetDefaulters()
+        public string GetDefaulters()
         {
-            // Execution unknown
+            return $"{Name,15}\t {Booked}";
         }         
         
     }

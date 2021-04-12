@@ -9,6 +9,6 @@ namespace IntergenicResearchLibrary
 
         Date GetDateReturn();
 
-        void GetDefaulters();         
+        string GetDefaulters();         
     }
 }
