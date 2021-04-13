@@ -59,7 +59,7 @@ namespace IntergenicResearchLibrary
         public Date AddDays(int num)
         {
             var date = new DateTime(Year,Month,Day).AddDays(num);;
-            return new Date(date.Day,date.Month,date.Year);
+            return new Date(date.Day, date.Month, date.Year);
         }  
     }
 }

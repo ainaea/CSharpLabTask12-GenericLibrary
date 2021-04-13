@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodebitsAcademy\\C#  labTask\\labTask11-IntroducingGenerics\\IntergenicResearchLibrary\\IntergenicResearchLibrary.csproj",
+      "projectUniqueName": "C:\\CodebitsAcademy\\C#  labTask\\labTask12-IntroducingGenerics\\IntergenicResearchLibrary\\IntergenicResearchLibrary.csproj",
       "projectName": "IntergenicResearchLibrary",
-      "projectPath": "C:\\CodebitsAcademy\\C#  labTask\\labTask11-IntroducingGenerics\\IntergenicResearchLibrary\\IntergenicResearchLibrary.csproj",
+      "projectPath": "C:\\CodebitsAcademy\\C#  labTask\\labTask12-IntroducingGenerics\\IntergenicResearchLibrary\\IntergenicResearchLibrary.csproj",
       "packagesPath": "C:\\Users\\Ayeni_OB\\.nuget\\packages\\",
-      "outputPath": "C:\\CodebitsAcademy\\C#  labTask\\labTask11-IntroducingGenerics\\IntergenicResearchLibrary\\obj\\",
+      "outputPath": "C:\\CodebitsAcademy\\C#  labTask\\labTask12-IntroducingGenerics\\IntergenicResearchLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
